@@ -1,0 +1,35 @@
+Reference,Value,Datasheet,Package,Qty
+"C1,C2",47uF,~,Electrolytic Capacitor,2
+"C3,C4,C5,C6",0.1uF,~,Ceramic Disc Capacitor,4
+"C7,C9",4.7uF,~,Electrolytic Capacitor,2
+C8,100pf,~,Ceramic Disc Capacitor,1
+C10,1nF,~,Box Style Film Capacitor,1
+"C11,C15",1uF,~,Electrolytic Capacitor,3
+C17,1uF,~,Box Style Film Capacitor,
+"C12,C14",22nF,~,Box Style Film Capacitor,2
+C13,3.3nF,~,Box Style Film Capacitor,1
+C16,2.2uF,~,Electrolytic Capacitor,1
+C18,47pF,~,Ceramic Disc Capacitor,1
+"D1,D2",1N5819,http://www.vishay.com/docs/88525/1n5817.pdf,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,2
+"D3,D4,D5",LED,~,LED 5.0mm (I used green for the eyes. These are part of the cliping stage different colours may have different effects),3
+E1,Conn_02x05_Pin,~,Pins_2x05_2.54mm_TH_EurorackPower_Shrouded,1
+J1,In,~,Jack_6.35mm,1
+"J2,J3",Conn_01x06,~,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,2
+J4,Out,~,Jack_6.35mm,1
+Q2,2N5458,https://my.centralsemi.com/datasheets/2N3819.PDF,Package_TO_SOT_THT:TO-92L_Inline_Wide,1
+"R1,R2",10,~,Metal Film 1/4 Resistor,2
+R3,560,~,Metal Film 1/4 Resistor,1
+"R4,R9,R19,R20,R22",1K,~,Metal Film 1/4 Resistor,5
+"R5,R8,R11",1M,~,Metal Film 1/4 Resistor,3
+"R6,R7,R14,R15",100K,~,Metal Film 1/4 Resistor,4
+R10,1.5K,~,Metal Film 1/4 Resistor,1
+"R12,R17",10K,~,Metal Film 1/4 Resistor,2
+R13,47,~,Metal Film 1/4 Resistor,1
+R16,3K,~,Metal Film 1/4 Resistor,1
+R18,470R,~,Metal Film 1/4 Resistor,1
+R21,22K,~,Metal Film 1/4 Resistor,1
+SW1,SW_DPDT_x2,~,DPDT switch,1
+U1,TL072,http://www.ti.com/lit/ds/symlink/tl071.pdf,DIP-8_W7.62mm,1
+VR1,A100K Dist,~,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,1
+VR2,A100K Tone,~,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,1
+VR3,A100K Vol,~,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,1
